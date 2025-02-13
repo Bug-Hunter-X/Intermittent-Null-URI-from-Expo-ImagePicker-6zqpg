@@ -1,0 +1,1 @@
+This bug occurs when using the Expo ImagePicker library in a React Native project. When selecting an image from the device's gallery, the selected image URI is sometimes returned as null or undefined, leading to unexpected behavior in the application.  The issue is intermittent and difficult to reproduce consistently, making debugging challenging.
